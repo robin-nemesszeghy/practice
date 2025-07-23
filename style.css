@@ -1,0 +1,19 @@
+body {
+  background-color: #f4f4f4; /* You can change this to any light color of your choice */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ensures the form stays centered */
+}
+.login-form {
+  background-color: rgb(
+    250,
+    240,
+    240
+  ); /* Change this if you want a different color */
+  padding: 20px; /* Adds space inside the form */
+  border-radius: 10px; /* Rounds the corners */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Soft floating effect */
+  border: 2px solid #ddd; /* Adds a border with a light gray color */
+  text-align: center; /* Centers text inside the form */
+}
