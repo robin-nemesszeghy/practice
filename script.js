@@ -10,19 +10,19 @@ if (age_1 >= 65) {
   console.log("You are a minor.");
 }
 
-// let score = 85;
+let score = 85;
 
-// if (score >= 90) {
-//   console.log("You received an A.");
-// } else if (score >= 80) {
-//   console.log("You received a B.");
-// } else if (score >= 70) {
-//   console.log("You received a C.");
-// } else if (score >= 60) {
-//   console.log("You received a D.");
-// } else {
-//   console.log("You received an F.");
-// }
+if (score >= 90) {
+  console.log("You received an A.");
+} else if (score >= 80) {
+  console.log("You received a B.");
+} else if (score >= 70) {
+  console.log("You received a C.");
+} else if (score >= 60) {
+  console.log("You received a D.");
+} else {
+  console.log("You received an F.");
+}
 
 let day = "Saturday";
 
