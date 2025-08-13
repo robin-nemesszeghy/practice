@@ -16,3 +16,14 @@ if (age < 12) {
 } else {
   console.log("You can ride by yourself!");
 }
+
+let length = 5;
+let width = 3.2;
+
+// Write code below
+let lengthFloat = parseFloat(length);
+let widthFloat = parseFloat(width);
+
+let area = lengthFloat * widthFloat;
+let perimeter = 2 * lengthFloat + 2 * widthFloat;
+console.log(`The area is: ${area} and the perimeter is: ${perimeter}`);
