@@ -29,3 +29,5 @@ console.log("String(true): ", str1);
 // TODO: Convert numValue to a string and log the result
 let str2 = String(numValue);
 console.log("String(123): ", str2);
+
+// Boolean and String Type Conversions
