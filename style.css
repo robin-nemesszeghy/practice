@@ -1,0 +1,12 @@
+/* Write CSS code here */
+input {
+  color: rgb(0, 0, 0);
+  letter-spacing: 5px;
+  border-radius: 3px;
+  border-color: rgb(128, 128, 128);
+  border-width: 2px;
+  border-style: solid;
+  outline-style: none;
+  padding: 6px 12px;
+  letter-spacing: 8px;
+}
